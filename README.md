@@ -20,6 +20,7 @@ This analysis aims to identify the main drivers of churn and help the business d
 - Develop retention strategies focused on high-risk customer segments, particularly customers with higher monthly charges. 
 ## Dashboard
 The Tableau dashboard provides a visual summary of key patterns, including churn distribution, the impact of monthly charges, and the relationship between contract type and customer retention. 
+
 You can explore the interactive dashboard on Tableau Public: 
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/yousra.el.omari/viz/CustomerChurnAnalysisDashboard-TelcoDataset/Dashboard1#1)
 ## Project File
