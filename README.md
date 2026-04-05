@@ -1,14 +1,15 @@
 # Telco Customer Churn Analysis
 Data analysis project exploring customer churn patterns using R and Tableau, with actionable business insights and recommendations.
-## Poject Overview
+## Project Overview
 This project analyzes customer churn in a telecom dataset to identify key factors influencing customer retention. 
 The goal is to understand why customers leave and provide actionable recommendations to imrpove retention and support business decision-making.
 ## Business Problem
 Customer churn is a critical issue for telecom companies, as losing customers directly impacts revenue and growth.
 This analysis aims to identify the main drivers of churn and help the business develop strategies to retain customers more effectively. 
 ## Tools Used 
--R (data cleaning and analysis)
--Tableau (data visualization and dashboard)
+- R (data cleaning and analysis)
+  
+- Tableau (data visualization and dashboard)
 ## Key insights 
 - Customers on month-to-month contracts show significantly higher churn rates compared to those on long-term contracts.
 - Higher average monthly charges are associated with an increased likelihood of customer churn.
